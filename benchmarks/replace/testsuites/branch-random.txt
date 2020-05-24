@@ -1,0 +1,24 @@
+'A[9-B]@*[9-B]---*-[_-z]-[^0-9]' 'a@nb@tc' < temp-test/987.inp.425.3
+'c[^9-B][^9-B]c*?[9-B]c-'  < temp-test/531.inp.230.4
+'[0-^9]@nl[^ ]inbeweendoesntmatterwhatjustgettingvariety%$inthestr&& OK here[@@]' < moni/rr2.t
+'-[0-9][^-z]@**[^9-B]?[^a--]@[ *[9-B]' '@%@&@' < temp-test/364.inp.159.3
+'8' '' < input/ruin.448
+'?' '<-DXZCR-P^y]}]T`l\!/ue4S|LI|TZ\E~Bm>ZK\!ml' < input/ruin.46
+'*' 'q' < input/ruin.1932
+'[^a-c]@t*' '@t' < temp-test/1188.inp.512.2
+'[a-c]' '@%@&' < temp-test/1207.inp.518.1
+'%a[ ]*[ ]c$' '&@n' < moni/f8.inp
+'^-?[^][^9-B]' 'a@n' < temp-test/510.inp.222.4
+'?-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^a-?' '@%&a' < temp-test/143.inp.66.2
+'%*?$' < input/ruin.1265
+'@@**' 'DR'\''R'\''$x@7uS2EbR[H/q4ml^<1S(?&U_L~_m#^MaWM;' < input/ruin.981
+'@n@@?' '09xj8*p{[Tk=E|P~H.Ge{Py<Z' < input/ruin.35
+'@n331*34[&*]&a%@**rlongstringdoesntmatt@t*t*t*tisbutmustbeverylongwhateverthecharactersaredon@@@ntteraslonga[\![estringistherightlengthandendswiththerightcharacterlkj45?1234ch$rcha[]acter]]illdojusttypingins[0-9]ars@nandsomeflags@n@t-12345612345?123456-@3@##filedoesntmatt&&eitherasitsneverprocessed&&@@45612345?123456-123456123455?123456-1234561234512345?123456-12345612345?123456-1234561234567890?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-123456[a-c-9]' '[0-9]substringdoesntmatter' < input/ruin.1338
+'[%1-9]*' '&@5%&[0-9 &' < moni/rr18.t
+'-*[^0-9]$'  '&@n'< temp-test/202.inp.90.6
+< input/ruin.2
+'[a-b]*' '&@t&@t&'  < moni/rr5.t
+'$-*[^][^0-9]' '&' < temp-test/201.inp.90.3
+'@n' '&5D$6:)'\''\!\!WaohoC<DMt/ns5zA:0vzT p?PADhjzrF.e*NbJLCd;0Sr/.Ja+?2sn-MP+uf6)IZet;aI\!3=TH7?$d_6t)\!l=Wfh37`[%\<5' < input/ruin.1200
+'[^--' '&a@%' < temp-test/66.inp.29.1
+'@@*$' '#' < input/ruin.1116

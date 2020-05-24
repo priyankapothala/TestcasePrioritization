@@ -1,0 +1,17 @@
+< inputs/ts544
+< inputs/ts541
+one doesntliketwo
+< inputs/uslin.1985
+< inputs/tst31
+inputs/test373.noeof
+inputs/uslin.416.noeof
+inputs/uslin.1334
+< inputs/uslin.1874
+inputs/uslin.1915
+inputs/garbage/nothing
+< inputs/tst257
+inputs/uslin.1780
+inputs/uslin.1713
+< inputs/newtst74.tst
+< inputs/ts604
+< inputs/tc315

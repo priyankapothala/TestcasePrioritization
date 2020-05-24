@@ -1,0 +1,7 @@
+< universe/ntest28
+<  universe/test51.inc
+< universe/test67
+< universe/test60
+<  universe/test308.inc
+< universe/tst49
+<  universe/test409.inc

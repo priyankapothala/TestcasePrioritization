@@ -1,0 +1,6 @@
+< inputs/newtst596.tst
+inputs/uslin.284
+one doesntliketwo
+inputs/garbage/nothing
+< inputs/uslin.301
+inputs/jk29

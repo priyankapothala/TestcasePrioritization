@@ -1,0 +1,6 @@
+5 3 0 < input/dat618
+3 3 0 < input/dat470
+7 9 10 < input/adt.36
+4 1 7 < input/adt.74
+1 0 5 < input/dat624
+0 0 0 < input/tc.250

@@ -1,0 +1,3 @@
+2  5 < input/ft.20
+1 9 9 < input/bdt.27
+8 3 9 < input/inp.hf.16

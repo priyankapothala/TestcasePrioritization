@@ -1,0 +1,18 @@
+'A-' 'a@nb@tc' < temp-test/981.inp.422.1
+'[c-a][c-a]' 'uSD-' < input/ruin.1990
+'i' '62k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G' < input/ruin.1031
+'?' 'f' < input/ruin.1740
+'^a-]@n*' '@%&a' < temp-test/1516.inp.649.1
+'@X' 'j' < input/ruin.972
+'-@n-@[[a-c]^a-c]-*?[^-z]-' '&a@%' < temp-test/294.inp.132.4
+'\@@'  < input/ruin.1165
+'?' '' < input/ruin.821
+'[^a--b]' '&a@%' < temp-test/1417.inp.608.1
+'@@*$' '@tW' < input/ruin.1247
+< input/ruin.1480
+'[^0[^0-9]@**^[^@@]-[0-9][@t][^0-9]@**^[^@@][9-B]-[0-9][^0-9][@t][^0-9]@**^[^@@][9-B]' '@%@&' < temp-test/1397.inp.600.1
+'?SjGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~ljGU}XIi?]qLF"YtOv~~l[0-9]* *[a--b][^a-c][^a-' 'N[E*MfGK' < input/ruin.1349
+'@@' 'H4uOP@dgu<-LyyKn+[L@' < input/ruin.682
+'*-?[a-c$'  < temp-test/210.inp.93.8
+'%[a-c-@@[0-9][^a-]?a-c]--c*$' '@%@&' < temp-test/1976.inp.839.10
+'[\!]**' '&@t[6-0]&' < moni/rr3.t

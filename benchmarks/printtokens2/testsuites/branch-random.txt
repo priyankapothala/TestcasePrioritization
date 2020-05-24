@@ -1,0 +1,11 @@
+one doesntliketwo
+< inputs/uslin.451
+< inputs/uslin.1893
+inputs/garbage/nothing
+< inputs/test109
+inputs/uslin.641
+< inputs/tst144
+< inputs/tst103
+< inputs/ts770
+< inputs/tc98
+inputs/uslin.943

@@ -1,0 +1,21 @@
+'%*@@p&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIgTBk$' '^^+p&y=3[ZYIgTBk:JTg x?51<dbL' < input/ruin.1331
+'@[[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B]' '[[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B][[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B][[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B][[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B]a&' < temp-test/2266.inp.961.1
+'@1@n11@nl[^1-6]betweend@t@n%%88*erwhatjust@t@t@tgvariety%$inthestr&& OK here[@@]' < moni/rr2.t
+< input/ruin.1814
+'[a--]@@*^-]?-[9-B][^@@]-' 'a@nb@tc' < temp-test/719.inp.310.2
+'[1-8;a-Z]*$' '@@n' < input/ruin.714
+'-*[^0-9]*$' '&' < temp-test/200.inp.90.1
+'%[0-9\!]*' '&@t@t#45678[0-9]&'  < moni/rr3.t
+'%n33123456&&&a%harlongstringdoesntmatt@t*t*t*tisbutmustbeverylongwhateverthecharactersaredonesntmatteraslongasthestringistherightlengthandendswiththerightcharacterlkj45?1234ch$rcharcacterswilldojusttypinginsomechars@nandsomeflags@n@t-12345612345?123456-@3@##filedoesntmatt&&eitherasitsneverprocessed&&@@45612345?123456-123456123455?123456-1234561234512345?123456-12345612345?123456-1234561234567890?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-123456[a-c-9]' 'substringdoesntmatter' < input/ruin.1338
+'*[A-G]?*[A-G]?' '(:,w5(X6)W%qon=YYaq]Q_&nZ~A' < input/ruin.637
+'[^--z][9-B]$%' '@n' < temp-test/22.inp.9.6
+'?[^--z]c[^9-B][^9-B]c*?[9-B]c-'  < temp-test/530.inp.230.1
+'-[0-9][^-z]@**[^9-B]?[^a--]@[ *[9-B]**' 'a' < moni/f7.inp
+'?--@**[^0-9]-*[-z]@n*$' '&' < temp-test/1026.inp.441.6
+'? *[^a-][9-B]--' '@%&a' < temp-test/1705.inp.727.1
+'%A[0-9]?@**[a-c][^0-9]$' '@%&a' < temp-test/672.inp.292.11
+'[a-c]?[^9-B][9-B][^a--b][0-9]-@@*@' '@%&a' < temp-test/489.inp.214.1
+'[^a-c]*?--*?* *[a--b][^a-c]' 'a@nb@tc' < temp-test/6.inp.3.1
+'?[^--z]c[^9-B]*$' '@t' < temp-test/531.inp.230.4
+'?*[9-B]?%[9-B]*?-[9-B]' '&a@%' < temp-test/9.inp.4.1
+'%[^9-B][9-B]-*?[^@@]-a-]-' '@%&a' < temp-test/2143.inp.907.5

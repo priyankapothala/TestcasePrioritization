@@ -1,0 +1,4 @@
+< inputs/ts564
+one doesntliketwo
+inputs/uslin.416.noeof
+inputs/garbage/nothing
