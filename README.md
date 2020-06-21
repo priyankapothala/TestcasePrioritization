@@ -3,7 +3,7 @@
 ## Project Structure
 
 ```
-project-thebugsters
+TestcasePrioritization
 ├── run.sh
 ├── benchmarks
     ├── compile.sh
